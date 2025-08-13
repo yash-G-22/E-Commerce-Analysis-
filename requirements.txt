@@ -1,0 +1,31 @@
+# Core Data Science Libraries
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.13.1
+
+# PySpark and Big Data
+pyspark==4.0.0
+
+# Machine Learning
+scikit-learn==1.5.1
+joblib==1.4.2
+
+# Data Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.22.0
+
+# Database and SQL
+sqlalchemy==2.0.31
+psycopg2-binary==2.9.9
+pymysql==1.1.1
+
+# Jupyter and Notebooks
+jupyter==1.0.0
+ipykernel==6.29.5
+
+# Additional Utilities
+requests==2.32.3
+python-dotenv==1.0.1
+openpyxl==3.1.2
+xlrd==2.0.1 
